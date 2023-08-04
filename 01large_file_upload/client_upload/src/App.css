@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.app{
+  width: 960px;
+  padding-top: 60px;
+  margin: 0 auto;
+}
